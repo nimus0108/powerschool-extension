@@ -4,7 +4,7 @@ function extractLetterGrade(str){
 		if(!(str[i] >= '0' && str[i] <= '9')) s += str[i];
 		else return s;
 	}
-	if(s == "--" || s == "[ i ]") return "N";
+	if(s == "[ i ]") return "N";
 	return s;
 }
 
