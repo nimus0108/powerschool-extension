@@ -1,3 +1,3 @@
 #PowerSchool Extension (BCAGPA)
 
-Chrome Store Link: https://chrome.google.com/webstore/detail/bca-gpa/kghamhhmjmebnijfiadominicmmpiole?hl=en-US
+Chrome Store Link: https://goo.gl/DQqe0X
